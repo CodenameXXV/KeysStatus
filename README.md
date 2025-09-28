@@ -1,4 +1,4 @@
-#Keyboard Status Monitor – Display Key States with Elegant Popups
+**#Keyboard Status Monitor – Display Key States with Elegant Popups**
 
 Overview
 Keyboard Status Monitor is a lightweight Windows utility that visually notifies you whenever the state of special keyboard keys changes. It shows sleek, animated popups for Num Lock, Caps Lock, Scroll Lock, Fn, and media/volume keys (Play/Pause, Stop, Previous, Next, Mute, Volume Up/Down), making it easy to track your keyboard’s current status at a glance.
