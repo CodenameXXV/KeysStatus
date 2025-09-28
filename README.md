@@ -1,3 +1,6 @@
+<img width="294" height="255" alt="Screenshot 2025-09-28 144856" src="https://github.com/user-attachments/assets/118b71c7-fa4a-4dcc-bbac-65646fce0c2a" />
+
+
 **#Keyboard Status Monitor – Display Key States with Elegant Popups**
 
 Overview
